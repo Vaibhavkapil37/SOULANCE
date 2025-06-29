@@ -1,28 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
 
-:root {
-  /* 🎨 Primary Colors */
-  --first-color: #B9A8FF;           /* Lavender Mist */
-  --first-color-alt: #A592FF;       /* Deeper Lavender */
-
-  /* 🌤 Backgrounds */
-  --body-color: #F9F9F9;            /* Cloud White */
-  --container-color: #EFEFF6;       /* Lavender Tint */
-
-  /* 📝 Typography */
-  --title-color: #1D1D1D;           /* Deep Charcoal */
-  --text-color: #c5c5c5;            /* Subtle Grey-Violet */
-  --white-color: #FFFFFF;
-
-  /* 🍑 Accents */
-  --accent-color: #FFC6A2;          /* Soft Peach */
-  --accent-color-alt: #FFBFA3;
-
-  /* 🪵 Borders & Shadows */
-  --border-color: #E0E0EB;          /* Light Lavender-Grey */
-  --shadow-soft: 0 4px 16px rgba(40, 30, 60, 0.06);
-}
-.darkmode {
+:root{
 
   /* 🌌 Backgrounds */
   --body-color: #12121C;           /* Deep Space Black */
